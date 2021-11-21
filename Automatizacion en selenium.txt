@@ -1,0 +1,1 @@
+Es un proyecto en JAVA para automatizar con Selenium. Los datos a testear los toma de un archivo de texto llamado datosprueba.txt y el resultado del test de cada dato lo guarda en el archivo resultados.txt. Hay un archivo de inicio, la pantalla gráfica que solicita la URL de la web a testear y el archivo de los métodos que ejecutan la prueba en POO.
